@@ -1,0 +1,14 @@
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\bin\Debug\net7.0\ns cghjcbim rnj vjq bljk&.exe
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\bin\Debug\net7.0\ns cghjcbim rnj vjq bljk&.deps.json
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\bin\Debug\net7.0\ns cghjcbim rnj vjq bljk&.runtimeconfig.json
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\bin\Debug\net7.0\ns cghjcbim rnj vjq bljk&.dll
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\bin\Debug\net7.0\ns cghjcbim rnj vjq bljk&.pdb
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\obj\Debug\net7.0\ns cghjcbim rnj vjq bljk&.GeneratedMSBuildEditorConfig.editorconfig
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\obj\Debug\net7.0\ns cghjcbim rnj vjq bljk&.AssemblyInfoInputs.cache
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\obj\Debug\net7.0\ns cghjcbim rnj vjq bljk&.AssemblyInfo.cs
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\obj\Debug\net7.0\ns cghjcbim rnj vjq bljk&.csproj.CoreCompileInputs.cache
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\obj\Debug\net7.0\ns cghjcbim rnj vjq bljk&.dll
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\obj\Debug\net7.0\refint\ns cghjcbim rnj vjq bljk&.dll
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\obj\Debug\net7.0\ns cghjcbim rnj vjq bljk&.pdb
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\obj\Debug\net7.0\ns cghjcbim rnj vjq bljk&.genruntimeconfig.cache
+C:\01510Гребенщиков\sss\ns cghjcbim rnj vjq bljk&\obj\Debug\net7.0\ref\ns cghjcbim rnj vjq bljk&.dll
